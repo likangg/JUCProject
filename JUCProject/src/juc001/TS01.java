@@ -2,6 +2,7 @@ package juc001;
 
 public class TS01 {
 
+
 	private int count = 1000;
 	private Object o = new Object();
 
