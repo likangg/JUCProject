@@ -13,6 +13,7 @@ public class TS01 {
 			count--;
 			System.out.println(Thread.currentThread().getName()+":count="+count);
 		}
+		
 		//synchronized{}代码块执行完毕之后，释放对象锁。
 
 	}
